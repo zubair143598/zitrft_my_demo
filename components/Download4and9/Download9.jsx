@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import React,{useState} from 'react'
 import Location from '../Location'
 import { RiAccountCircleLine } from 'react-icons/ri'

@@ -1,7 +1,6 @@
-import Hero from "@/components/hero/Hero";
-// import CountresTrans from "@/components/countries-language/CountresTrans";
+// import Hero from "@/components/hero/Hero";
+import Hero from "@/components/Hero/Hero";
 import Head from "next/head";
-// import Heero from "@/components/Hero"
 import Countries from "@/components/countries-language/Countries";
 import { useEffect, useState } from "react";
 import { useTranslation } from "react-i18next";
@@ -37,7 +36,7 @@ export default function Home() {
           </>
         )}
     
-        {/* <Heero/> */}
+        
       </main>
     </>
   );
