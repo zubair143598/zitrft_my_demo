@@ -1,7 +1,7 @@
 import Hero from "@/components/hero/Hero";
-import CountresTrans from "@/components/countries-language/CountresTrans";
+// import CountresTrans from "@/components/countries-language/CountresTrans";
 import Head from "next/head";
-import Heero from "@/components/Hero"
+// import Heero from "@/components/Hero"
 import Countries from "@/components/countries-language/Countries";
 import { useEffect, useState } from "react";
 import { useTranslation } from "react-i18next";
