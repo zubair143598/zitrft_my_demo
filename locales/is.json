@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "letsDo": "בא נעשה",
+    "this": "זֶה",
+    "upload":"העלה קבצים או תיקיות על ידי השלכתם בכל מקום בחלון זה"
+  },
+  "sidebar":{
+    "upload":"העלה קבצים או תיקיות על ידי שחרור",
+    "them":"אותם בכל מקום בחלון הזה",
+    "advance":" תקן הצפנה מתקדם (AES) 256-BIT" 
+  },
+  "getlink":{
+    "uploadFiles":"העלה קבצים",
+    "or":"אוֹ",
+    "select":"בחר תיקיה",
+    "upto":"עד ל",
+    "free":"חינם"
+  },
+  "FileDropZone":{
+    "drop":"שחרר את הקבצים שלך כאן"
+  },
+  "footer":{
+    "zitransfer":"© ZITRANSFER 2023",
+    "rights":"כל הזכויות שמורות",
+    "partof":"ZITRANSFER הוא חלק מ-ZIMO GROUP",
+    "zitransferUses":"ZITRANSFER משתמש בתקן הצפנה מתקדם (AES) 256-BIT כדי להגן על הסודיות של הנתונים שאתה מעלה"
+  },
+  "countries":{
+    "choose":"בחר את המדינה או האזור שלך",
+    "language":"שפה"
+  }
+}

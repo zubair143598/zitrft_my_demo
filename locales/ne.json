@@ -1,0 +1,32 @@
+{
+  "hero": {
+  "letsDo": "LATEN WE DIT DOEN",
+  "this": "DIT",
+  "upload":"UPLOAD BESTANDEN OF MAPPEN DOOR ZE OVERAL IN DIT VENSTER TE SLEPEN"
+  },
+  "sidebar":{
+  "upload":"BESTANDEN OF MAPPEN UPLOADEN DOOR TE SLEPEN",
+  "them":"ZE OVERAL IN DIT VENSTER",
+  "advance":"GEAVANCEERDE VERSLEUTELINGSSTANDAARD (AES) 256-BIT"
+  },
+  "getlink":{
+  "uploadFiles":"UPLOAD BESTANDEN",
+  "or":"OF",
+  "select":"SELECTEER EEN MAP",
+  "upto":"TOT",
+  "free":"GRATIS"
+  },
+  "FileDropZone":{
+  "drop":"Zet uw bestanden hier neer"
+  },
+  "footer":{
+  "zitransfer":"© ZITRANSFER 2023",
+  "rights":"ALLE RECHTEN VOORBEHOUDEN",
+  "partof":" ZITRANSFER IS ONDERDEEL VAN DE ZIMO GROEP",
+  "zitransferUses":"ZITRANSFER GEBRUIKT GEAVANCEERDE VERSLEUTELINGSSTANDAARD (AES) 256-BIT OM DE VERTRouWELIJKHEID VAN DE DOOR U GEUPLOADE GEGEVENS TE BESCHERMEN."
+  },
+  "countries":{
+  "choose":"Kies uw land of regio",
+  "language":"TAAL"
+  }
+  }

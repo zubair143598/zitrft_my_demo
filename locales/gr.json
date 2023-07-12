@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "letsDo": "LASS ES UNS TUN",
+    "this": "DAS",
+    "upload":"LADEN SIE DATEIEN ODER ORDNER HOCH, indem Sie sie irgendwo in diesem Fenster ablegen"
+  },
+  "sidebar":{
+    "upload":"LADEN SIE DATEIEN ODER ORDNER HOCH, indem Sie sie ablegen ",
+    "them":"SIE ÜBERALL IN DIESEM FENSTER",
+    "advance":" ERWEITERTER VERSCHLÜSSELUNGSSTANDARD (AES) 256-BIT" 
+  },
+  "getlink":{
+    "uploadFiles":"DATEN HOCHLADEN",
+    "or":"ODER",
+    "select":"WÄHLEN SIE EINEN ORDNER",
+    "upto":"BIS ZU",
+    "free":"FREI"
+  },
+  "FileDropZone":{
+    "drop":"Legen Sie Ihre Dateien hier ab"
+  },
+  "footer":{
+    "zitransfer":"© ZITRANSFER 2023",
+    "rights":"ALLE RECHTE VORBEHALTEN",
+    "partof":" ZITRANSFER IST TEIL DER ZIMO-GRUPPE",
+    "zitransferUses":"ZITRANSFER VERWENDET DEN ADVANCED ENCRYPTION STANDARD (AES) 256-BIT, UM DIE VERTRAULICHKEIT DER VON IHNEN HOCHGELADENEN DATEN ZU SCHÜTZEN"
+  },
+  "countries":{
+    "choose":"Wählen Sie Ihr Land oder Ihre Region",
+    "language":"SPRACHE"
+  }
+}

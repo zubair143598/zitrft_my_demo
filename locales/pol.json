@@ -1,0 +1,32 @@
+{
+  "hero": {
+  "letsDo": "ZRÓBMY TO",
+  "this": "TO",
+  "upload": "PRZEŚLIJ PLIKI LUB FOLDERY, PRZECIĄGAJĄC JE GDZIEKOLWIEK W TYM OKNIE"
+  },
+  "sidebar": {
+  "upload": "PRZEŚLIJ PLIKI LUB FOLDERY, PRZECIĄGAJĄC ",
+  "them": "JE GDZIEKOLWIEK W TYM OKNIE",
+  "advance": "ZAŚWIADCZENIE O ZAAWANSOWANYM STANDARDZIE SZYFROWANIA (AES) 256-BITOWYM"
+  },
+  "getlink": {
+  "uploadFiles": "PRZEŚLIJ PLIKI",
+  "or": "ALBO",
+  "select": "WYBIERZ FOLDER",
+  "upto": "DO",
+  "free": "ZA DARMO"
+  },
+  "FileDropZone": {
+  "drop": "Upuść swoje pliki tutaj"
+  },
+  "footer": {
+  "zitransfer": "© ZITRANSFER 2023",
+  "rights": "WSZELKIE PRAWA ZASTRZEŻONE",
+  "partof": "ZITRANSFER JEST CZĘŚCIĄ GRUPY ZIMO",
+  "zitransferUses": "ZITRANSFER UŻYWA ZAAWANSOWANEGO STANDARDU SZYFROWANIA (AES) 256-BITOWEGO, ABY CHRONIĆ POUFNOŚĆ DANYCH, KTÓRE PRZEŚLESZ."
+  },
+  "countries": {
+  "choose": "Wybierz swój kraj lub region",
+  "language": "JĘZYK"
+  }
+  }

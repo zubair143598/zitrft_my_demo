@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "letsDo": "HAGAMOS",
+    "this": "ESTE",
+    "upload":"CARGAR ARCHIVOS O CARPETAS SOLTÁNDOLOS EN CUALQUIER LUGAR DE ESTA VENTANA"
+  },
+  "sidebar":{
+    "upload":"CARGAR ARCHIVOS O CARPETAS AL SOLTAR",
+    "them":"EN CUALQUIER PARTE DE ESTA VENTANA",
+    "advance":" ESTÁNDAR DE CIFRADO AVANZADO (AES) DE 256 BITS" 
+  },
+  "getlink":{
+    "uploadFiles":"SUBIR ARCHIVOS",
+    "or":"O",
+    "select":"SELECCIONA UNA CARPETA",
+    "upto":"HASTA",
+    "free":"GRATIS"
+  },
+  "FileDropZone":{
+    "drop":"Deja tus archivos aquí"
+  },
+  "footer":{
+    "zitransfer":"© ZITRANSFER 2023",
+    "rights":"RESERVADOS TODOS LOS DERECHOS",
+    "partof":" ZITRANSFER FORMA PARTE DEL GRUPO ZIMO",
+    "zitransferUses":"ZITRANSFER UTILIZA EL ESTÁNDAR DE CIFRADO AVANZADO (AES) DE 256 BITS PARA PROTEGER LA CONFIDENCIALIDAD DE LOS DATOS QUE CARGA"
+  },
+  "countries":{
+    "choose":"Elija su país o región",
+    "language":"IDIOMA"
+  }
+}

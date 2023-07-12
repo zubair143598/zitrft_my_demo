@@ -1,0 +1,32 @@
+{
+  "hero": {
+  "letsDo": "하자",
+  "this": "이것을",
+  "upload": "파일이나 폴더를 이 창 어디에나 놓으면 업로드합니다."
+  },
+  "sidebar": {
+  "upload": "파일이나 폴더를 놓아 업로드하세요.",
+  "them": "이 창 어디에나",
+  "advance": "고급 암호화 표준(AES 256비트) 사용"
+  },
+  "getlink": {
+  "uploadFiles": "파일 업로드",
+  "or": "또는",
+  "select": "폴더 선택",
+  "upto": "최대",
+  "free": "무료"
+  },
+  "FileDropZone": {
+  "drop": "파일을 이곳에 놓으세요"
+  },
+  "footer": {
+  "zitransfer": "© ZITRANSFER 2023",
+  "rights": "모든 권리 보유",
+  "partof": "ZITRANSFER는 ZIMO 그룹의 일부입니다",
+  "zitransferUses": "ZITRANSFER는 업로드한 데이터의 기밀성을 보호하기 위해 고급 암호화 표준(AES 256비트)을 사용합니다."
+  },
+  "countries": {
+  "choose": "국가 또는 지역 선택",
+  "language": "언어"
+  }
+  }

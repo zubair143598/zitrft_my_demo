@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "letsDo": "让我们做",
+    "this": "这",
+    "upload":"通过将文件或文件夹拖放到此窗口中的任意位置来上传它们"
+  },
+  "sidebar":{
+    "upload":" 通过删除上传文件或文件夹",
+    "them":"他们在这个窗口的任何地方",
+    "advance":"高级加密标准 (AES) 256 位" 
+  },
+  "getlink":{
+    "uploadFiles":"上传文件",
+    "or":"或者",
+    "select":"选择文件夹",
+    "upto":"取决于",
+    "free":"自由的"
+  },
+  "FileDropZone":{
+    "drop":"将您的文件放到此处"
+  },
+  "footer":{
+    "zitransfer":"© ZITRANSFER 2023",
+    "rights":"版权所有",
+    "partof":" ZITRANSFER 隶属于 ZIMO 集团",
+    "zitransferUses":"ZITRANSFER 使用高级加密标准 (AES) 256 位来保护您上传的数据的机密性"
+  },
+  "countries":{
+    "choose":"选择您所在的国家或地区",
+    "language":"语言"
+  }
+}

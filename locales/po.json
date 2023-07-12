@@ -1,0 +1,32 @@
+{
+  "hero": {
+  "letsDo": "VAMOS FAZER",
+  "this": "ISTO",
+  "upload": "FAÇA UPLOAD DE ARQUIVOS OU PASTAS AO SOLTÁ-LOS EM QUALQUER LUGAR DESTA JANELA"
+  },
+  "sidebar": {
+  "upload": "FAÇA UPLOAD DE ARQUIVOS OU PASTAS AO SOLTAR ",
+  "them": "ELES EM QUALQUER LUGAR DESTA JANELA",
+  "advance": "PADRÃO DE CIFRAGEM AVANÇADO (AES) DE 256 BITS"
+  },
+  "getlink": {
+  "uploadFiles": "FAÇA UPLOAD DE ARQUIVOS",
+  "or": "OU",
+  "select": "SELECIONE UMA PASTA",
+  "upto": "ATÉ",
+  "free": "GRÁTIS"
+  },
+  "FileDropZone": {
+  "drop": "Solte seus arquivos aqui"
+  },
+  "footer": {
+  "zitransfer": "© ZITRANSFER 2023",
+  "rights": "TODOS OS DIREITOS RESERVADOS",
+  "partof": "ZITRANSFER FAZ PARTE DO GRUPO ZIMO",
+  "zitransferUses": "O ZITRANSFER USA O PADRÃO DE CIFRAGEM AVANÇADO (AES) DE 256 BITS PARA PROTEGER A CONFIDENCIALIDADE DOS DADOS QUE VOCÊ FAZ UPLOAD."
+  },
+  "countries": {
+  "choose": "Escolha seu país ou região",
+  "language": "IDIOMA"
+  }
+  }

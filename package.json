@@ -1,0 +1,42 @@
+{
+  "name": "boilerplate",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "prod": "next build && next export -o build"
+  },
+  "dependencies": {
+    "@phntms/react-share": "^1.0.2-rc1",
+    "@reduxjs/toolkit": "^1.9.5",
+    "autoprefixer": "10.4.14",
+    "axios": "^1.4.0",
+    "eslint": "8.40.0",
+    "eslint-config-next": "13.4.1",
+    "file-saver": "^2.0.5",
+    "framer-motion": "^10.12.18",
+    "i18next": "^23.2.8",
+    "next": "13.4.1",
+    "next-i18next": "^14.0.0",
+    "postcss": "8.4.23",
+    "qrcode": "^1.5.3",
+    "react": "18.2.0",
+    "react-country-flag": "^3.1.0",
+    "react-datepicker": "^4.15.0",
+    "react-dom": "18.2.0",
+    "react-dropzone": "^14.2.3",
+    "react-facebook": "^9.0.12",
+    "react-i18next": "^13.0.2",
+    "react-icons": "^4.8.0",
+    "react-modern-drawer": "^1.2.0",
+    "react-query": "^3.39.3",
+    "react-redux": "^8.0.5",
+    "react-share": "^4.4.1",
+    "sass": "^1.62.1",
+    "tailwind-scrollbar-hide": "^1.1.7",
+    "tailwindcss": "3.3.2"
+  }
+}

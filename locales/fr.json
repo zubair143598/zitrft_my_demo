@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "letsDo": "FAISONS",
+    "this": "CE",
+    "upload":"TÉLÉCHARGEZ DES FICHIERS OU DES DOSSIERS EN LES DÉPOSANT N'IMPORTE OÙ DANS CETTE FENÊTRE"
+  },
+  "sidebar":{
+    "upload":" TÉLÉCHARGER DES FICHIERS OU DES DOSSIERS EN DÉPOSANT ",
+    "them":"LES PARTOUT DANS CETTE FENÊTRE",
+    "advance":" NORME DE CHIFFREMENT AVANCÉ (AES) 256-BIT" 
+  },
+  "getlink":{
+    "uploadFiles":"TÉLÉCHARGER DES FICHIERS",
+    "or":"OU",
+    "select":"SÉLECTIONNER UN DOSSIER",
+    "upto":"JUSQU'À",
+    "free":"GRATUIT"
+  },
+  "FileDropZone":{
+    "drop":"Déposez vos fichiers ici"
+  },
+  "footer":{
+    "zitransfer":"© ZITRANSFER 2023",
+    "rights":"TOUS LES DROITS SONT RÉSERVÉS",
+    "partof":"ZITRANSFER FAIT PARTIE DU GROUPE ZIMO",
+    "zitransferUses":"ZITRANSFER UTILISE LA NORME DE CRYPTAGE AVANCÉ (AES) 256-BIT POUR PROTÉGER LA CONFIDENTIALITÉ DES DONNÉES QUE VOUS TÉLÉCHARGEZ"
+  },
+  "countries":{
+    "choose":"Choisissez votre pays ou région",
+    "language":"LANGUE"
+  }
+}

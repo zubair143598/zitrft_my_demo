@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "letsDo": "LAD OS GØRE DET",
+    "this": "DET HER",
+    "upload":"UPLOAD FILER ELLER MAPPER VED AT SLIPPE DEM HVOR SOM HELST I DETTE VINDU"
+  },
+  "sidebar":{
+    "upload":" UPLOAD FILER ELLER MAPPER VED AT DROPPE",
+    "them":"DEM HVOR SOM HELST I DETTE VINDU",
+    "advance":" AVANCERET KRYPTINGSSTANDARD (AES) 256-BIT" 
+  },
+  "getlink":{
+    "uploadFiles":"UPLOAD FILER",
+    "or":"ELLER",
+    "select":"VÆLG EN MAPPE",
+    "upto":"OP TIL",
+    "free":"GRATIS"
+  },
+  "FileDropZone":{
+    "drop":"Slip dine filer her"
+  },
+  "footer":{
+    "zitransfer":"© ZITRANSFER 2023",
+    "rights":"ALLE RETTIGHEDER FORBEHOLDES",
+    "partof":" ZITRANSFER ER EN DEL AF ZIMO GRUPPEN",
+    "zitransferUses":"ZITRANSFER BRUGER AVANCERET KRYPTINGSSTANDARD (AES) 256-BIT FOR AT BESKYTTE FORTROLIGHEDEN AF DE DATA, DU UPLOAD"
+  },
+  "countries":{
+    "choose":"Vælg dit land eller din region",
+    "language":"SPROG"
+  }
+}

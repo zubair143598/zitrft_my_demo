@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "letsDo": "UDĚLEJME",
+    "this": "TENTO",
+    "upload":"NAHRÁVEJTE SOUBORY NEBO SLOŽKY PŘEHNEDÁNÍM JAKKOLIV V TOMTO OKNĚ"
+  },
+  "sidebar":{
+    "upload":" NAHRÁVEJTE SOUBORY NEBO SLOŽKY POUHÁNÍM ",
+    "them":"KDEKOLIV V TOMTO OKNĚ",
+    "advance":" STANDARD POKROČILÉHO ŠIFROVÁNÍ (AES) 256-BIT" 
+  },
+  "getlink":{
+    "uploadFiles":"NAHRÁT SOUBORY",
+    "or":"NEBO",
+    "select":"VYBERTE SLOŽKU",
+    "upto":"AŽ DO",
+    "free":"VOLNÝ, UVOLNIT"
+  },
+  "FileDropZone":{
+    "drop":"Sem přetáhněte své soubory"
+  },
+  "footer":{
+    "zitransfer":"© ZITRANSFER 2023",
+    "rights":"VŠECHNA PRÁVA VYHRAZENA",
+    "partof":" ZITRANSFER JE SOUČÁSTÍ ZIMO GROUP",
+    "zitransferUses":"ZITRANSFER POUŽÍVÁ POKROČILÝ STANDARD ŠIFROVÁNÍ (AES) 256-BIT PRO OCHRANU DŮVĚRNOSTI NAHRÁVANÝCH DAT"
+  },
+  "countries":{
+    "choose":"Vyberte svou zemi nebo oblast",
+    "language":"JAZYK"
+  }
+}

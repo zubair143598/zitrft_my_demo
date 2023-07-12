@@ -1,0 +1,32 @@
+{
+  "hero": {
+  "letsDo": "LÅT OSS GÖRA",
+  "this": "DET HÄR",
+  "upload": "LADDA UPP FILER ELLER MAPPAR GENOM ATT SLÄPPA DEM VAR SOM HELST I DETTA FÖNSTER"
+  },
+  "sidebar": {
+  "upload": "LADDA UPP FILER ELLER MAPPAR GENOM ATT SLÄPPA ",
+  "them": "DEM VAR SOM HELST I DETTA FÖNSTER",
+  "advance": "AVANCERAD KRYPTERINGSENHET (AES) 256-BITAR"
+  },
+  "getlink": {
+  "uploadFiles": "LADDA UPP FILER",
+  "or": "ELLER",
+  "select": "VÄLJ EN MAPP",
+  "upto": "UPP TILL",
+  "free": "GRATIS"
+  },
+  "FileDropZone": {
+  "drop": "Släpp dina filer här"
+  },
+  "footer": {
+  "zitransfer": "© ZITRANSFER 2023",
+  "rights": "ALLA RÄTTIGHETER RESERVERADE",
+  "partof": "ZITRANSFER ÄR EN DEL AV ZIMO-GRUPPEN",
+  "zitransferUses": "ZITRANSFER ANVÄNDER AVANCERAD KRYPTERINGSENHET (AES) 256-BITAR FÖR ATT SKYDDA KONFIDENTIALITETEN FÖR DE DATA DU LADDAR UPP."
+  },
+  "countries": {
+  "choose": "Välj ditt land eller region",
+  "language": "SPRÅK"
+  }
+  }

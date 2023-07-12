@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "letsDo": " やろう",
+    "this": "これ",
+    "upload":"ファイルまたはフォルダーをこのウィンドウ内の任意の場所にドロップしてアップロードします"
+  },
+  "sidebar":{
+    "upload":"ドロップによるファイルまたはフォルダーのアップロード",
+    "them":"このウィンドウのどこにでもあります",
+    "advance":" 高度暗号化標準 (AES) 256 ビット" 
+  },
+  "getlink":{
+    "uploadFiles":"ファイルをアップロードする",
+    "or":"また",
+    "select":"フォルダーを選択してください",
+    "upto":"まで",
+    "free":"無料"
+  },
+  "FileDropZone":{
+    "drop":"ここにファイルをドロップしてください"
+  },
+  "footer":{
+    "zitransfer":"© ZITRANSFER 2023",
+    "rights":"全著作権所有",
+    "partof":" ZITRANSFER は ZIMO GROUP の一部です",
+    "zitransferUses":"ZITRANSFER は、高度な暗号化標準 (AES) 256 ビットを使用して、アップロードするデータの機密性を保護します"
+  },
+  "countries":{
+    "choose":"国または地域を選択してください",
+    "language":"言語"
+  }
+}

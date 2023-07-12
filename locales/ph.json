@@ -1,0 +1,32 @@
+{
+  "hero": {
+  "letsDo": "GAWIN NATIN",
+  "this": "ITO",
+  "upload": "MAG-UPLOAD NG MGA FILE O MGA LITERAL SA PAMAMAGITAN NG PAG-DRAG SAANMANG LUGAR SA WINDOW NA ITO"
+  },
+  "sidebar": {
+  "upload": "MAG-UPLOAD NG MGA FILE O MGA LITERAL SA PAMAMAGITAN NG PAG-DRAG",
+  "them": "SILA KAHIT SAAN SA WINDOW NA ITO",
+  "advance": "ADVANCED ENCRYPTION STANDARD (AES) 256-BIT"
+  },
+  "getlink": {
+  "uploadFiles": "MAG-UPLOAD NG MGA FILE",
+  "or": "O",
+  "select": "PUMILI NG ISANG LITERAL",
+  "upto": "HANGGANG SA",
+  "free": "LIBRE"
+  },
+  "FileDropZone": {
+  "drop": "I-drop ang iyong mga file dito"
+  },
+  "footer": {
+  "zitransfer": "© ZITRANSFER 2023",
+  "rights": "LAHAT NG KARAPATAN NASA IYO",
+  "partof": "ZITRANSFER AY BAHAGI NG ZIMO GROUP",
+  "zitransferUses": "GUMAGAMIT ANG ZITRANSFER NG ADVANCED ENCRYPTION STANDARD (AES) 256-BIT UPANG PROTEKTAHAN ANG KUMPIDENSYALIDAD NG DATA NA INYONG I-UPLOAD."
+  },
+  "countries": {
+  "choose": "Pumili ng Inyong Bansa o Rehiyon",
+  "language": "WIKA"
+  }
+  }

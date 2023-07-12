@@ -1,0 +1,32 @@
+{
+    "hero": {
+      "letsDo": " LET'S DO",
+      "this": "THIS",
+      "upload":"UPLOAD FILES OR FOLDERS BY DROPPING THEM ANYWHERE IN THIS WINDOW"
+    },
+    "sidebar":{
+      "upload":" UPLOAD FILES OR FOLDERS BY DROPPING ",
+      "them":"THEM ANYWHERE IN THIS WINDOW",
+      "advance":" ADVANCED ENCRYPTION STANDARD (AES) 256-BIT" 
+    },
+    "getlink":{
+      "uploadFiles":"UPLOAD FILES",
+      "or":"OR",
+      "select":"SELECT A FOLDER",
+      "upto":"UP TO",
+      "free":"FREE"
+    },
+    "FileDropZone":{
+      "drop":"Drop your files here"
+    },
+    "footer":{
+      "zitransfer":"© ZITRANSFER 2023",
+      "rights":"ALL RIGHTS RESERVED",
+      "partof":" ZITRANSFER IS PART OF THE ZIMO GROUP",
+      "zitransferUses":"ZITRANSFER USES ADVANCED ENCRYPTION STANDARD (AES) 256-BIT TO PROTECT THE CONFIDENTIALITY OF THE DATA YOU UPLOAD."
+    },
+    "countries":{
+      "choose":"Choose Your Country or Region",
+      "language":"LANGUAGE"
+    }
+}

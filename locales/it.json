@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "letsDo": "FACCIAMO",
+    "this": "QUESTO",
+    "upload":" CARICA FILE O CARTELLE TRASFORMANDOLI OVUNQUE IN QUESTA FINESTRA"
+  },
+  "sidebar":{
+    "upload":"CARICA FILE O CARTELLE DROPPING",
+    "them":"LORO OVUNQUE IN QUESTA FINESTR",
+    "advance":" STANDARD DI CRITTOGRAFIA AVANZATA (AES) 256 BIT" 
+  },
+  "getlink":{
+    "uploadFiles":"CARICARE FILES",
+    "or":"O",
+    "select":"SELEZIONA UNA CARTELLA",
+    "upto":"FINO A",
+    "free":"GRATUITO"
+  },
+  "FileDropZone":{
+    "drop":"Trascina qui i tuoi file"
+  },
+  "footer":{
+    "zitransfer":"© ZITRANSFER 2023",
+    "rights":"TUTTI I DIRITTI RISERVATI",
+    "partof":" ZITRANSFER FA PARTE DEL GRUPPO ZIMO",
+    "zitransferUses":"ZITRANSFER UTILIZZA ADVANCED ENCRYPTION STANDARD (AES) 256-BIT PER PROTEGGERE LA RISERVATEZZA DEI DATI CARICATI"
+  },
+  "countries":{
+    "choose":"Scegli il tuo Paese o la tua regione",
+    "language":"LINGUA"
+  }
+}

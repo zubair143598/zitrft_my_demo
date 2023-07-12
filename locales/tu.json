@@ -1,0 +1,32 @@
+{
+  "hero": {
+  "letsDo": "YAPALIM",
+  "this": "BUNU",
+  "upload": "DOSYA VEYA KLASÖRLERİ BU PENCEREYE BIRAKARAK YÜKLEYİN"
+  },
+  "sidebar": {
+  "upload": "DOSYA VEYA KLASÖRLERİ BIRAKARAK YÜKLEYİN",
+  "them": "ONLARI BU PENCEREDE HERHANGİ BİR YERE BIRAKARAK",
+  "advance": "GELİŞMİŞ ŞİFRELEME STANDARDI (AES) 256-BİT"
+  },
+  "getlink": {
+  "uploadFiles": "DOSYA YÜKLE",
+  "or": "VEYA",
+  "select": "BİR KLASÖR SEÇİN",
+  "upto": "KADAR",
+  "free": "ÜCRETSİZ"
+  },
+  "FileDropZone": {
+  "drop": "Dosyalarınızı buraya bırakın"
+  },
+  "footer": {
+  "zitransfer": "© ZITRANSFER 2023",
+  "rights": "TÜM HAKLARI SAKLIDIR",
+  "partof": "ZITRANSFER, ZIMO GRUBUNUN BİR PARÇASIDIR",
+  "zitransferUses": "ZITRANSFER, YÜKLEDİĞİNİZ VERİLERİN GİZLİLİĞİNİ KORUMAK İÇİN GELİŞMİŞ ŞİFRELEME STANDARDI (AES) 256-BİT KULLANIR."
+  },
+  "countries": {
+  "choose": "Ülkenizi veya Bölgenizi Seçin",
+  "language": "DİL"
+  }
+  }

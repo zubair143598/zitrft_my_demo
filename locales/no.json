@@ -1,0 +1,33 @@
+
+{
+  "hero": {
+  "letsDo": "LA OSS GJØRE",
+  "this": "Dette",
+  "upload": "LAST OPP FILER ELLER MAPPER VED Å SLIPPE DEM HVOR SOM HELST I DETTE VINDUET"
+  },
+  "sidebar": {
+  "upload": "LAST OPP FILER ELLER MAPPER VED Å SLIPPE",
+  "them": "DEM HVOR SOM HELST I DETTE VINDUET",
+  "advance": "AVANSERT KRYPTERINGSSTANDARD (AES) 256-BIT"
+  },
+  "getlink": {
+  "uploadFiles": "LAST OPP FILER",
+  "or": "ELLER",
+  "select": "VELG EN MAPPE",
+  "upto": "OPPTIL",
+  "free": "GRATIS"
+  },
+  "FileDropZone": {
+  "drop": "Slipp filene dine her"
+  },
+  "footer": {
+  "zitransfer": "© ZITRANSFER 2023",
+  "rights": "ALLE RETTIGHETER RESERVERT",
+  "partof": "ZITRANSFER ER EN DEL AV ZIMO GROUP",
+  "zitransferUses": "ZITRANSFER BRUKER AVANSERT KRYPTERINGSSTANDARD (AES) 256-BIT FOR Å BESKYTTE KONFIDENSIALITETEN TIL DE OPPLASTEDE DATAENE."
+  },
+  "countries": {
+  "choose": "Velg ditt land eller region",
+  "language": "SPRÅK"
+  }
+  }
